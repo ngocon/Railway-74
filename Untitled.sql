@@ -12,6 +12,3 @@ create table Trainee(
    Training_Class int,     
    Evanluation_Notes     varchar(250)
 );
-
-
-// abc
