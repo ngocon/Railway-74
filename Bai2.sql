@@ -12,5 +12,5 @@ create table Trainee(
    ET_English int not null
       check (0<=ET_English<=50),
    Training_Class varchar(10),     
-   Evanluation_Notes     varchar(255)
+   Evanluation_Notes     text
 );
